@@ -1,0 +1,7 @@
+# Ignore all .class files in all folders
+**/*.class
+
+# Optional: Ignore common build directories
+build/
+out/
+target/
