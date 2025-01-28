@@ -1,8 +1,4 @@
-import java.util.Scanner;
-
 class Bank {
-    Scanner scan = new Scanner(System.in);
-    
     private int balance = 0;
     
     public void deposit(int amount) {
@@ -16,7 +12,7 @@ class Bank {
     }
     
     public void getAccountDetails() {
-        System.out.println("Total balance: "+balance);
+        System.out.println("Total balance: " + balance);
     }
 }
 
@@ -27,6 +23,5 @@ public class encapsulation {
     b.deposit(100); 
     b.withdrawal(50); 
     b.getAccountDetails();
-    int c = b.balance;
     }
 }

@@ -56,6 +56,6 @@ class Hashing {
         char charSearch = scan.nextLine().charAt(0);
         
         System.out.println("Character: " + charSearch + "Frequency: " + hash[charSearch]);
-    
+        scan.close();
     }
 }  

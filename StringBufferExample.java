@@ -1,5 +1,5 @@
 import java.util.*;
-class Sample {
+class StringBufferExample {
     public static void main(String[] args) {
         HashSet<Integer> numbers = new HashSet<>();        
         
