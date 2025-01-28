@@ -1,4 +1,3 @@
-
 class Solution {
 
     public boolean isAnagram(String s, String t) {
@@ -25,7 +24,7 @@ class Solution {
     }
 }
 
-public class check_anagram242 {
+public class check_anagram1021 {
     public static void main(String[] args) {
         String s = "anagram", t = "nagaram"; 
         Solution S = new Solution();

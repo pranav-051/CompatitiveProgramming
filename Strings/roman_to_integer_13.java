@@ -1,7 +1,5 @@
 
-import java.util.HashMap;
-import org.w3c.dom.TypeInfo;
-
+mport java.util.*; 
 class Solution {
 
     public int romanToInt(String s) {
